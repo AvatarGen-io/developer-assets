@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://avatargen.io/">
-    <img alt="babel" src="logo/avatargen.png" width="546">
+    <img alt="babel" src="https://github.com/AvatarGen-io/developer-assets/blob/master/logo/avatargen.png" width="546">
   </a>
 </p>
 
@@ -23,7 +23,7 @@ We provide the list of features our API supports in several formats. JSON and XM
 We would like your help in supporting other languages. If you are interested in adding support for a language, create an issue with the title **Support for [Language]**.
 
 ## How to contribute
-First read out [code of conduct](https://github.com/AvatarGen-io/developer-assets/blob/master/CODE_OF_CONDUCT) and then check out issues with the [good first issue](https://github.com/AvatarGen-io/developer-assets/labels/good%20first%20issue) and [help wanted](https://github.com/AvatarGen-io/developer-assets/labels/help%20wanted) label.
+First read out [code of conduct](https://github.com/AvatarGen-io/developer-assets/blob/master/CODE_OF_CONDUCT.md) and then check out issues with the [good first issue](https://github.com/AvatarGen-io/developer-assets/labels/good%20first%20issue) and [help wanted](https://github.com/AvatarGen-io/developer-assets/labels/help%20wanted) label.
 
 ## License
 [MIT](https://github.com/AvatarGen-io/developer-assets/blob/master/LICENSE)
