@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://avatargen.io/">
-    <img alt="babel" src="https://github.com/AvatarGen-io/developer-assets/blob/master/logo/avatargen.png" width="546">
+    <img alt="AvatarGen" src="https://github.com/AvatarGen-io/developer-assets/blob/master/logo/avatargen.png" width="546">
   </a>
 </p>
 
